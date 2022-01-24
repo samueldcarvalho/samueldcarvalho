@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Samuel de Carvalho and Welcome to my Github page! 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samueldcarvalho)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samueldcarvalho&count_private=true))](https://github.com/anuraghazra/github-readme-stats)
 
 
 
