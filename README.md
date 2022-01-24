@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! 👋 I'm Samuel de Carvalho and Welcome to my Github page! 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samueldcarvalho)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **samueldcarvalho/samueldcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
