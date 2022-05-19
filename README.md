@@ -1,7 +1,7 @@
 
 
 ## Hi there. Welcome to my Github page! 👋 
-### I'm Samuel de Carvalho. I'm 22, Software Developer and Tech Lover 💖! 
+### I'm Samuel de Carvalho, 22, Software Developer and Tech Lover 💖! 
 
 <div align="center">
   <a href="https://github.com/samueldcarvalho">
