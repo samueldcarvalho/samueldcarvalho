@@ -20,7 +20,7 @@
   <img align="center" alt="Sam-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sam-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="right" alt="Sam-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/395708442012286976/b37b1459297388fd26294723b2ded0ab.webp?size=80">
+  <img align="right" alt="Sam-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQEMu0…eta&t=yn7Wtn33xtFak-wOTKyqzqC5szHCV5g-QwHeFeGDMRQ">
 </div>
   
   ##
