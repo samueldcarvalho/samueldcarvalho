@@ -1,6 +1,6 @@
 
 
-## Hi there. I'm Samuel de Carvalho. 👋
+## Greetings! I'm Samuel de Carvalho. 👋
 ### Welcome to my Github's page! I'm 22, Brazilian, Software Developer and Tech Lover!💖
 
 <div align="center">
