@@ -2,7 +2,8 @@
 
 ## Greetings! I'm Samuel de Carvalho. 👋
 ### Welcome to my Github's page! I'm 22, Brazilian, Software Developer and Tech Lover!💖
-#### Whatsapp: +55 (38) 99804-4280
+#### **Whatsapp**: +55 (38) 99804-4280
+#### **E-mail**: samueldcarvalho99@gmail.com
 
 <div align="center">
   <a href="https://github.com/samueldcarvalho">
