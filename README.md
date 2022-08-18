@@ -8,6 +8,7 @@
   <a href="https://github.com/samueldcarvalho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samueldcarvalho&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr&border_radius=20"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldcarvalho&layout=compact&langs_count=7&theme=codeSTACKr&border_radius=20"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=samueldcarvalho&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   
