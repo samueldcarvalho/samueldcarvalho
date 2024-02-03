@@ -8,12 +8,12 @@
 
 <div align="center">
   <a href="https://github.com/samueldcarvalho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldcarvalho&layout=compact&langs_count=7&theme=codeSTACKr&border_radius=20"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=samueldcarvalho&theme=dark&background=09131B&ring=D8582C&fire=FEE300&hide_border=true"/>
 </div>
 
 <div align="center">
   <a href="https://github.com/samueldcarvalho">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=samueldcarvalho&theme=dark&background=09131B&ring=D8582C&fire=FEE300&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldcarvalho&layout=compact&langs_count=7&theme=codeSTACKr&border_radius=20"/>
 </div>
     
 <div style="display: inline_block"><br>
