@@ -1,8 +1,8 @@
 
 
-<h1 align="center">Greetings! I'm Samuel de Carvalho. 👋</h1>
+<h1 align="center">Hey! I'm Samuel de Carvalho. 👋</h1>
 
-### Welcome to my Github's page! I'm 24, Brazilian Software Developer and Tech Lover!💖
+### I'm a Brazilian Software Developer and Tech Lover!💖
 **Whatsapp**: +55 (38) 99804-4280 <br/>
 **E-mail**: samueldcarvalho99@gmail.com
 
